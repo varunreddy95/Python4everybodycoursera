@@ -1,5 +1,6 @@
 import json
 
+#JSON represents data as nested list and dictionaries
 data = '''{
         "name" : "Varun",
         "phone" : {
